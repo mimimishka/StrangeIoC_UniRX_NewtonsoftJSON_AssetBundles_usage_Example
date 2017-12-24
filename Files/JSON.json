@@ -1,0 +1,14 @@
+[
+    {
+        "ObjectName" : "Cube",
+        "BundleName" : "cube"
+    },
+    {
+        "ObjectName" : "Sphere",
+        "BundleName" : "sphere"
+    },
+    {
+        "ObjectName" : "Capsule",
+        "BundleName" : "capsule"
+    }
+]

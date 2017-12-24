@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2204453870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94a02aab7fe61c74dc9cb03a1be3bb4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4158121f94450832f3f30a4af8c17a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8991d49f733f3eb4da657fb23ea354ce, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/Sphere.prefab
+Dependencies: []
